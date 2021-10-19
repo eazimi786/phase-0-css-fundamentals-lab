@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+featered-property
+{
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+} 
+
+figure
+{
+ border: 1px solid blue;
+ display:flex;
+ flex-direction: column;
+ align-items: center;
+ 
+
+}
+
+nav{
+  display: flex;
+  justify-content: center;
+}
+
+nav a{
+padding-left: 10px;
+padding-right: 10px;
+background-color: grey;
+
+}
+
+figcaption: smaller; 
